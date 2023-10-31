@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Hamburguesa simple",
+    "precio": 3600,
+    "img": "https://tofuu.getjusto.com/orioneat-local/resized2/H52bod7L5ehRmLWp9-1200-1200.webp"
+  },
+  {
+    "id": 2,
+    "descripcion": "Hamburguesa doble",
+    "precio": 4200,
+    "img": "https://www.wendys.com.mx/sites/default/files/styles/max_650x650/public/2021-12/double-stack-full.png?itok=gXRbbKJJ"
+  },
+  {
+    "id": 3,
+    "descripcion": "Hamburguesa vegan",
+    "precio": 3800,
+    "img": "https://us.123rf.com/450wm/mnyjhee/mnyjhee1901/mnyjhee190100028/116562443-hamburguesa-vegana-con-tofu-y-verduras-aislado-sobre-fondo-blanco.jpg"
+  },
+  {
+    "id": 4,
+    "descripcion": "Menu del dia",
+    "precio": 3500,
+    "img": "https://mcdonalds.es/api/cms/images/mcdonalds-es/c365e4c8-a1a3-4877-b9f6-8a685031bffd_550x440_McExtreme-Bourbon-Simple.png?auto=compress,format"
+  }
+]
